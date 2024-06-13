@@ -24,10 +24,7 @@ Este projeto é uma ferramenta de descompactação e mesclagem de arquivos .zip 
 3. Execute o script:
 python3 descompactar.py
 
-4. Execute o script:
-python3 descompactar.py
-
-5. Use a interface gráfica para selecionar as pastas de origem e destino e iniciar o processo.
+4. Use a interface gráfica para selecionar as pastas de origem e destino e iniciar o processo.
 
 ## Licença
 
