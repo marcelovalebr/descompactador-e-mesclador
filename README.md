@@ -19,12 +19,12 @@ Este projeto é uma ferramenta de descompactação e mesclagem de arquivos .zip 
    git clone https://github.com/marcelovalebr/descompactador-e-mesclador.git
 
 2. Navegue até o diretório do projeto:
-```bash
-
    cd descompactador-e-mesclador
 
+3. Execute o script:
+python3 descompactar.py
+
 4. Execute o script:
-```bash
 python3 descompactar.py
 
 5. Use a interface gráfica para selecionar as pastas de origem e destino e iniciar o processo.
